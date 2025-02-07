@@ -4,9 +4,7 @@ import { sharedStyles } from '@/constants/styles';
 
 const Details: React.FC = () => {
   return (
-    <View style={sharedStyles.container}>
-      <Text>123</Text>
-    </View>
+    <View style={sharedStyles.container}/>
   );
 };
 
